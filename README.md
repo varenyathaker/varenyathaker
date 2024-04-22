@@ -2,7 +2,7 @@
 
 Aspiring Software Developer | Learning Data Structures and Algorithms
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/samkitsamsukha?theme=nord&font=Grandstander&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/varenyathaker?theme=nord&font=Grandstander&ext=heatmap)
 
 <!--[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samkitsamsukha)-->
 
